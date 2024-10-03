@@ -1,0 +1,83 @@
+﻿@using Project_Summer.DataContext
+
+@model HangHoa;
+@{
+    ViewData["Title"] = "Edit";
+
+}
+<h4>Tại sản phẩm</h4>
+<div>
+    <p>@ViewBag.Message</p>
+</div>
+<div class="col-md-9">
+    <form asp-action="Edit" enctype="multipart/form-data">
+        <div class="form-group">
+            <label>Name</label>
+            <input asp-for="TenHh" class="form-control" />
+            <span asp-validation-for="TenHh" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label>Giá</label>
+            <input asp-for="DonGia" class="form-control" />
+            <span asp-validation-for="DonGia" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label>Giảm giá</label>
+            <input asp-for="GiamGia" class="form-control" />
+            <span asp-validation-for="GiamGia" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label>Số lần xem</label>
+            <input asp-for="SoLanXem" class="form-control" />
+            <span asp-validation-for="SoLanXem" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label>Đơn vị</label>
+            <input asp-for="MoTaDonVi" class="form-control" />
+            <span asp-validation-for="MoTaDonVi" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label>Loại</label>
+            <select asp-for="MaLoai" class="form-control" asp-items="ViewBag.Loai">
+                <option>--Chọn Loai</option>
+            </select>
+            <span asp-validation-for="MaLoai" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label>NHà cung câps</label>
+            <select asp-for="MaNcc" class="form-control" asp-items="ViewBag.NhaCungCap">
+                <option>--Chọn Nhà cung cấp</option>
+            </select>
+            <span asp-validation-for="MaNcc" class="text-danger" />
+        </div>
+        <div class="form-group">
+            <label>Hình ảnh</label>
+            <input asp-for="HinhUpload" class="form-control" />
+           
+            <span asp-validation-for="HinhUpload" class="text-danger" />
+            <img src="~/media/products/@Model.Hinh" width="120" />
+        </div>
+
+
+        <div class="form-group">
+            <label>Mô tả</label>
+            <textarea asp-for="MoTa" class="form-control"></textarea>
+            <span asp-validation-for="MoTa" class="text-danger" />
+        </div>
+        <div class="form-group ">
+            <button type="submit" class="btn btn-primary ">Sửasản phẩm</button>
+        </div>
+
+    </form>
+
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>CKEDITOR.replace("MoTa");</script>
+}
+
+
+

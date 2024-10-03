@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Project_Summer.Models.HangHoaVM>
+ <h3></h3>
+@foreach (var item in Model)
+{
+    <div class="col-md-6 col-lg-6 col-xl-4">
+        <div class="rounded position-relative fruite-item">
+            <a asp-action="Detail" asp-controller="Product" asp-route-id="@item.IdHH">
+            <div class="fruite-img">
+                <img src="~/media/products/@item.Hinh" class="img-fluid w-100 rounded-top" alt="">
+            </div>
+            </a>
+            <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">@item.TenLoai</div>
+            <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                 <a asp-action="Detail" asp-controller="Product" asp-route-id="@item.IdHH">
+                <h4>@item.TenHH</h4>
+                </a>
+                <p>@item.MoTa</p>
+                <div class="d-flex justify-content-between flex-lg-wrap">
+                    <p class="text-dark fs-5 fw-bold mb-0">@item.GiaHH.ToString("#,##0 VNĐ")</p>
+                    @if (item.SoLuong >0)
+                    {
+                        <a asp-action="AddToCart" asp-controller="Cart" asp-route-idHH="@item.IdHH" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Thêm vào giỏ hàng</a>
+                    }
+                    else
+                    {
+                        <a class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i>Hết hàng </a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Project_Summer.DataContext.ChiTietHd>
+@{
+    ViewData["Title"] = "ViewDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="table table-bordered">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Mã chi tiết HD</th>
+            <th scope="col">Mã DH</th>
+            <th scope="col">Sản phẩm</th>
+            <th scope="col">Số lượng</th>
+            <th scope="col">Giảm giá</th>
+            <th scope="col">Đơn giá</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.MaCt</th>
+                <td>@item.MaHd</td>
+
+                <td>@item.MaHhNavigation.TenHh</td>
+
+                <td>@item.SoLuong</td>
+                <td>@item.GiamGia</td>
+                <td>@item.DonGia</td>
+
+
+            </tr>
+        }
+
+    </tbody>
+</table>
+

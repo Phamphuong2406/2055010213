@@ -1,0 +1,1358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\cart\\viewoder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\cart\\viewoder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\cart\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\cart\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\controllers\\productmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\controllers\\productmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\productmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\productmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\chitiethd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\summerrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\summerrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\shared\\components\\salesukien\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\shared\\components\\salesukien\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\home\\gioithieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\cart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\home\\loi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\home\\loi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\viewcomponents\\salesukienviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\viewcomponents\\salesukienviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\viewcomponents\\cartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\helper\\constmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\helper\\constmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\wwwroot\\mojii.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\wwwroot\\mojii.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\repository\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\repository\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\shared\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\shared\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\repository\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\repository\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\helper\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\helper\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\helper\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\productmanager\\addquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\productmanager\\addquantity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\hanghoadetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\hanghoadetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\soluongsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\soluongsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\productmanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\productmanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\dangkyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\dangkyvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Migrations\\20240926031443_Soluongsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_Summer\\Migrations\\20240926031443_Soluongsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\dangnhapvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\dangnhapvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\checkoutvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\vchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\vchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\trangthai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\nhanxet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\nhanxet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\banbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\banbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\wwwroot\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\provider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\provider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\productdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\loaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\loaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\yeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\yeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\shared\\components\\cart\\cartpanel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\datacontext\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\datacontext\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\helper\\validation\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\helper\\validation\\fileextensionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\areas\\admin\\views\\productmanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\areas\\admin\\views\\productmanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\helper\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\helper\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|c:\\users\\admin\\desktop\\new folder\\project_summer\\helper\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FDBBEB-4070-4EC1-917C-5D814DADE40E}|Project_Summer\\Project_Summer.csproj|solutionrelative:project_summer\\helper\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Project_Summer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAE8BAAAAAAAAAAAqwFcBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:05:54.546Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T08:31:07.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\HangHoa.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\HangHoa.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:20:23.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_Summer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\appsettings.json",
+              "RelativeToolTip": "Project_Summer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T16:06:30.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiTietHd.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\ChiTietHd.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\ChiTietHd.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\ChiTietHd.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\ChiTietHd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:56:21.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\ViewDetails.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Cart\\ViewDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\ViewDetails.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Cart\\ViewDetails.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T15:30:52.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewOder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\ViewOder.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Cart\\ViewOder.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\ViewOder.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Cart\\ViewOder.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwCYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T01:56:52.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwDwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:51:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Cart\\CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Cart\\CheckOut.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:27:35.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SummerrContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\SummerrContext.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\SummerrContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\SummerrContext.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\SummerrContext.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAuwCEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:20:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\HoaDon.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\HoaDon.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:20:25.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T08:47:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:47:19.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Project_Summer\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Project_Summer\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAlwPcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-25T15:28:37.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAHoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:08:10.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\Components\\SaleSukien\\Default.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Shared\\Components\\SaleSukien\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\Components\\SaleSukien\\Default.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Shared\\Components\\SaleSukien\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:17:57.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\Order\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T06:37:01.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T02:30:47.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Project_Summer\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\index.html",
+              "RelativeToolTip": "Project_Summer\\wwwroot\\index.html",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAP4CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T11:26:18.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GioiThieu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Home\\GioiThieu.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Home\\GioiThieu.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Home\\GioiThieu.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T15:19:48.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\Success.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Cart\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\Success.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Cart\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T01:07:45.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Loi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Home\\Loi.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Home\\Loi.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Home\\Loi.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Home\\Loi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:08:11.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T17:47:12.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\ViewComponents\\CartViewComponent.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\ViewComponents\\CartViewComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\ViewComponents\\CartViewComponent.cs",
+              "RelativeToolTip": "Project_Summer\\ViewComponents\\CartViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:18:38.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T14:22:56.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "Project_Summer\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:38:32.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SaleSukienViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\ViewComponents\\SaleSukienViewComponent.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\ViewComponents\\SaleSukienViewComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\ViewComponents\\SaleSukienViewComponent.cs",
+              "RelativeToolTip": "Project_Summer\\ViewComponents\\SaleSukienViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:06:32.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProviderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\ProviderController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Controllers\\ProviderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\ProviderController.cs",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Controllers\\ProviderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:48:27.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:08:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "Project_Summer\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwFsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:07:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\KhachHang.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:02:19.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:02:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "mojii.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\mojii.html",
+              "RelativeDocumentMoniker": "Project_Summer\\wwwroot\\mojii.html",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\mojii.html",
+              "RelativeToolTip": "Project_Summer\\wwwroot\\mojii.html",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAHEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T10:58:57.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ConstModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\ConstModel.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Helper\\ConstModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\ConstModel.cs",
+              "RelativeToolTip": "Project_Summer\\Helper\\ConstModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:12:33.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Program.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Program.cs",
+              "RelativeToolTip": "Project_Summer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:06:21.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:48:23.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:27:16.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaypalClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Repository\\PaypalClient.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Repository\\PaypalClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Repository\\PaypalClient.cs",
+              "RelativeToolTip": "Project_Summer\\Repository\\PaypalClient.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAA3wFQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:22:03.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Shared\\ProductItem.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\ProductItem.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Shared\\ProductItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAADtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:24:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Project_Summer\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:07:27.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\CartItem.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:11:59.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Repository\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Repository\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Repository\\EmailSender.cs",
+              "RelativeToolTip": "Project_Summer\\Repository\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:21:40.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Repository\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Repository\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Repository\\IEmailSender.cs",
+              "RelativeToolTip": "Project_Summer\\Repository\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:21:41.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\MyUtil.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Helper\\MyUtil.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\MyUtil.cs",
+              "RelativeToolTip": "Project_Summer\\Helper\\MyUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:12:22.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Helper\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\SessionExtensions.cs",
+              "RelativeToolTip": "Project_Summer\\Helper\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T02:03:58.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\HangHoaVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\HangHoaVM.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\HangHoaVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:36:31.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HangHoaDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\HangHoaDetailVM.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\HangHoaDetailVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\HangHoaDetailVM.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\HangHoaDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:36:32.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AddQuantity.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\AddQuantity.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\AddQuantity.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\AddQuantity.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\AddQuantity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T11:15:27.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\NhaCungCap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\NhaCungCap.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\NhaCungCap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:02:29.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SoLuongSp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\SoLuongSp.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\SoLuongSp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\SoLuongSp.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\SoLuongSp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:50:07.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T08:30:04.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T04:10:03.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240926031443_Soluongsp.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Migrations\\20240926031443_Soluongsp.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Migrations\\20240926031443_Soluongsp.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Migrations\\20240926031443_Soluongsp.cs",
+              "RelativeToolTip": "Project_Summer\\Migrations\\20240926031443_Soluongsp.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAgwBsBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:14:44.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\CartModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\CartModel.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:49:15.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DangKyVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\DangKyVM.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\DangKyVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\DangKyVM.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\DangKyVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:49:09.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TrangThai.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\TrangThai.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\TrangThai.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\TrangThai.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\TrangThai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:20:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BanBe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\BanBe.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\BanBe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\BanBe.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\BanBe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:20:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CheckOutVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\CheckOutVM.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\CheckOutVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\CheckOutVM.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\CheckOutVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:49:17.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DangNhapVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\DangNhapVM.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\DangNhapVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\DangNhapVM.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\DangNhapVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:36:36.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\Role.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\Role.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\Role.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:11:51.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "NhanXet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\NhanXet.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\NhanXet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\NhanXet.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\NhanXet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:48:43.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "VChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\VChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\VChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\VChiTietHoaDon.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\VChiTietHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:58:55.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\Loai.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\Loai.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\Loai.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:20:26.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\contact.html",
+              "RelativeDocumentMoniker": "Project_Summer\\wwwroot\\contact.html",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\contact.html",
+              "RelativeToolTip": "Project_Summer\\wwwroot\\contact.html",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-25T15:14:26.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "chackout.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\chackout.html",
+              "RelativeDocumentMoniker": "Project_Summer\\wwwroot\\chackout.html",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\chackout.html",
+              "RelativeToolTip": "Project_Summer\\wwwroot\\chackout.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-25T15:35:58.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project_Summer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:32:26.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAwwIIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T08:36:52.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Product\\Search.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Product\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Product\\Search.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Product\\Search.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T13:08:02.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:14:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\ProductDetailVM.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\ProductDetailVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\ProductDetailVM.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\ProductDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T14:32:23.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Provider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\Provider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\Provider\\Index.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\Provider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:14:34.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "LoaiVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\LoaiVM.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\LoaiVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\LoaiVM.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\LoaiVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:36:30.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "YeuThich.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\YeuThich.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\YeuThich.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\YeuThich.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\YeuThich.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:12:40.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project_Summer\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:36:33.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CartPanel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Shared\\Components\\Cart\\CartPanel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T13:13:43.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T13:13:34.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "Project_Summer\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T09:27:42.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\DataContext\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\DataContext\\NhanVien.cs",
+              "RelativeToolTip": "Project_Summer\\DataContext\\NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:58:28.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FileExtensionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\Validation\\FileExtensionAttribute.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Helper\\Validation\\FileExtensionAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\Validation\\FileExtensionAttribute.cs",
+              "RelativeToolTip": "Project_Summer\\Helper\\Validation\\FileExtensionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:38:07.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "RelativeToolTip": "Project_Summer\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T09:02:28.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DataEncryptionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\DataEncryptionExtensions.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Helper\\DataEncryptionExtensions.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\DataEncryptionExtensions.cs",
+              "RelativeToolTip": "Project_Summer\\Helper\\DataEncryptionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:12:25.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Project_Summer\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:12:36.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\Pagination.cs",
+              "RelativeDocumentMoniker": "Project_Summer\\Helper\\Pagination.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Helper\\Pagination.cs",
+              "RelativeToolTip": "Project_Summer\\Helper\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:12:18.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

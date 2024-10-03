@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Project_Summer.DataContext.HoaDon>
+@{
+    ViewData["Title"] = "ViewOder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ViewOder</h1>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Mã Hóa Đơn: @item.MaHd</h5>
+                    <p class="card-text"><strong>Ngày đặt: </strong>@item.NgayDat.ToString("dd/MM/yyyy")</p>
+                    <p class="card-text"><strong>Họ tên KH: </strong>@item.HoTen</p>
+                    <p class="card-text"><strong>Địa chỉ: </strong>@item.DiaChi</p>
+                    <p class="card-text"><strong>Số điện thoại: </strong>@item.DienThoai</p>
+                    <p class="card-text"><strong>Tổng tiền: </strong>@item.TongTien</p>
+                    <p class="card-text"><strong>Thanh toán: </strong>@item.CachThanhToan</p>
+                    <p class="card-text"><strong>Vận chuyển: </strong>@item.CachVanChuyen</p>
+                    <p class="card-text">
+                        <strong>Trạng thái: </strong>
+                        @if (item.MaTrangThai == 1)
+                        {
+                            <span class="badge bg-success">Đã giao</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-warning">Đang vận chuyển</span>
+                        }
+                    </p>
+                    <p class="card-text"><strong>Lưu ý: </strong>@item.GhiChu</p>
+                    <a href="@Url.Action("ViewDetails", "Cart", new { id = item.MaHd })" class="btn btn-primary">Chi tiết</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
