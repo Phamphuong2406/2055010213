@@ -92,7 +92,7 @@ namespace Project_Summer.Areas.Admin.Controllers
                     return View(model);
                 }
                 loai.TenLoai = model.TenLoai;
-                loai.Hinh = model.Hinh;
+          
                 loai.MoTa = model.MoTa;
                 loai.TenLoaiAlias = model.TenLoaiAlias;
 

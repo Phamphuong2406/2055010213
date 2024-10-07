@@ -29,8 +29,6 @@ public partial class HoaDon
 
     public int MaTrangThai { get; set; }
 
-    public string MaNv { get; set; }
-
     public string GhiChu { get; set; }
 
     public double? TongTien { get; set; }
@@ -38,8 +36,6 @@ public partial class HoaDon
     public virtual ICollection<ChiTietHd> ChiTietHds { get; set; } = new List<ChiTietHd>();
 
     public virtual KhachHang MaKhNavigation { get; set; }
-
-    public virtual NhanVien MaNvNavigation { get; set; }
 
     public virtual TrangThai MaTrangThaiNavigation { get; set; }
 }

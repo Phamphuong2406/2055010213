@@ -1,1231 +1,1315 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project_Summer.bundle.scp.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Project_Summer.bundle.scp.css",
       "PackagePath": "staticwebassets\\Project_Summer.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\404.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\404.html",
       "PackagePath": "staticwebassets\\404.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\Backend\\js\\site.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\Backend\\js\\site.js",
       "PackagePath": "staticwebassets\\Backend\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\LICENSE.txt",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\LICENSE.txt",
       "PackagePath": "staticwebassets\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\READ-ME.txt",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\READ-ME.txt",
       "PackagePath": "staticwebassets\\READ-ME.txt"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\cart.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\cart.html",
       "PackagePath": "staticwebassets\\cart.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\chackout.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\chackout.html",
       "PackagePath": "staticwebassets\\chackout.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\ckeditor5-43.1.0.zip",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\ckeditor5-43.1.0.zip",
       "PackagePath": "staticwebassets\\ckeditor5-43.1.0.zip"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\ckeditor5-builder-43.1.0.zip",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\ckeditor5-builder-43.1.0.zip",
       "PackagePath": "staticwebassets\\ckeditor5-builder-43.1.0.zip"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\contact.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\contact.html",
       "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\css\\style.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\css\\style.min.css",
       "PackagePath": "staticwebassets\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\DauTay.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\DauTay.jpg",
       "PackagePath": "staticwebassets\\img\\DauTay.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\Dua.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\Dua.jpg",
       "PackagePath": "staticwebassets\\img\\Dua.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\NhoSua.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\NhoSua.jpg",
       "PackagePath": "staticwebassets\\img\\NhoSua.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\Sacht.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\Sacht.jpg",
       "PackagePath": "staticwebassets\\img\\Sacht.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\Tao.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\Tao.jpg",
       "PackagePath": "staticwebassets\\img\\Tao.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\Thuoc.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\Thuoc.png",
       "PackagePath": "staticwebassets\\img\\Thuoc.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\anh.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\aa.jpg",
+      "PackagePath": "staticwebassets\\img\\aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\anh.jpg",
       "PackagePath": "staticwebassets\\img\\anh.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\avatar.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\img\\avatar.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\baner-1.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\baner-1.png",
       "PackagePath": "staticwebassets\\img\\baner-1.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\banner-fruits.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\banner-fruits.jpg",
       "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\banner1.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\banner1.png",
       "PackagePath": "staticwebassets\\img\\banner1.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\best-product-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\best-product-1.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\best-product-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\best-product-2.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\best-product-3.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\best-product-3.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\best-product-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\best-product-4.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\best-product-5.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\best-product-5.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\best-product-6.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\best-product-6.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\bia.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\bia.jpg",
       "PackagePath": "staticwebassets\\img\\bia.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\butchi.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\but.jpg",
+      "PackagePath": "staticwebassets\\img\\but.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\butchi.jpg",
       "PackagePath": "staticwebassets\\img\\butchi.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cac-do-dung-hoc-tap.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\buttt.jpg",
+      "PackagePath": "staticwebassets\\img\\buttt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\ca.jpg",
+      "PackagePath": "staticwebassets\\img\\ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cac-do-dung-hoc-tap.jpg",
       "PackagePath": "staticwebassets\\img\\cac-do-dung-hoc-tap.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\capybara.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\capybara.jpg",
       "PackagePath": "staticwebassets\\img\\capybara.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\carousel-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\carousel-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\carousel-2.jpg",
       "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cart-page-header-img.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cat-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cat-1.jpg",
       "PackagePath": "staticwebassets\\img\\cat-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cat-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cat-2.jpg",
       "PackagePath": "staticwebassets\\img\\cat-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cat-3.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cat-3.jpg",
       "PackagePath": "staticwebassets\\img\\cat-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cat-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cat-4.jpg",
       "PackagePath": "staticwebassets\\img\\cat-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cat-5.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cat-5.jpg",
       "PackagePath": "staticwebassets\\img\\cat-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\cat-6.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\cat-6.jpg",
       "PackagePath": "staticwebassets\\img\\cat-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\chuoi.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\chuoi.jpg",
       "PackagePath": "staticwebassets\\img\\chuoi.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\dd.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\dd.jpg",
       "PackagePath": "staticwebassets\\img\\dd.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\dodung.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\den.jpg",
+      "PackagePath": "staticwebassets\\img\\den.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\do.jpg",
+      "PackagePath": "staticwebassets\\img\\do.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\dodung.jpg",
       "PackagePath": "staticwebassets\\img\\dodung.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\duahau.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\duahau.jpg",
       "PackagePath": "staticwebassets\\img\\duahau.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\featur-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\featur-1.jpg",
       "PackagePath": "staticwebassets\\img\\featur-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\featur-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\featur-2.jpg",
       "PackagePath": "staticwebassets\\img\\featur-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\featur-3.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\featur-3.jpg",
       "PackagePath": "staticwebassets\\img\\featur-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-1.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-2.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-3.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-3.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-4.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-5.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-5.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-6.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\fruite-item-6.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\hero-img-1.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\hero-img-1.png",
       "PackagePath": "staticwebassets\\img\\hero-img-1.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\hero-img-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\hero-img-2.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\hero-img.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\hero-img.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\hong.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\hh.png",
+      "PackagePath": "staticwebassets\\img\\hh.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\hinh.jpg",
+      "PackagePath": "staticwebassets\\img\\hinh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\hong.jpg",
       "PackagePath": "staticwebassets\\img\\hong.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\le.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\le.jpg",
       "PackagePath": "staticwebassets\\img\\le.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\offer-1.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\nguyen.jpg",
+      "PackagePath": "staticwebassets\\img\\nguyen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\offer-1.png",
       "PackagePath": "staticwebassets\\img\\offer-1.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\offer-2.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\offer-2.png",
       "PackagePath": "staticwebassets\\img\\offer-2.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\payment.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\payment.png",
       "PackagePath": "staticwebassets\\img\\payment.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\payments.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\payments.png",
       "PackagePath": "staticwebassets\\img\\payments.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-1.jpg",
       "PackagePath": "staticwebassets\\img\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-2.jpg",
       "PackagePath": "staticwebassets\\img\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-3.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-3.jpg",
       "PackagePath": "staticwebassets\\img\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-4.jpg",
       "PackagePath": "staticwebassets\\img\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-5.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-5.jpg",
       "PackagePath": "staticwebassets\\img\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-6.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-6.jpg",
       "PackagePath": "staticwebassets\\img\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-7.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-7.jpg",
       "PackagePath": "staticwebassets\\img\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\product-8.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\product-8.jpg",
       "PackagePath": "staticwebassets\\img\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\quyt.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\quyt.jpg",
       "PackagePath": "staticwebassets\\img\\quyt.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\sach.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\sach.jpg",
       "PackagePath": "staticwebassets\\img\\sach.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\single-item.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\single-item.jpg",
       "PackagePath": "staticwebassets\\img\\single-item.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\testimonial-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\user.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\tho.jpg",
+      "PackagePath": "staticwebassets\\img\\tho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\user.jpg",
       "PackagePath": "staticwebassets\\img\\user.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vanphongpham.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vanphongpham.jpg",
       "PackagePath": "staticwebassets\\img\\vanphongpham.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-1.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-2.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-3.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-3.png",
       "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-4.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-5.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-5.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-6.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vegetable-item-6.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vendor-1.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vendor-1.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vendor-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vendor-2.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vendor-3.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vendor-3.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vendor-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vendor-4.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vendor-6.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vendor-6.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vendor-7.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vendor-7.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-7.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\img\\vendor-8.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\img\\vendor-8.jpg",
       "PackagePath": "staticwebassets\\img\\vendor-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
       "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\close.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\loading.gif",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\next.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\images\\prev.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
       "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\waypoints\\links.php",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\mail\\contact.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\mail\\contact.js",
       "PackagePath": "staticwebassets\\mail\\contact.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\mail\\contact.php",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\mail\\contact.php",
       "PackagePath": "staticwebassets\\mail\\contact.php"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\mail\\jqBootstrapValidation.min.js",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\mail\\jqBootstrapValidation.min.js",
       "PackagePath": "staticwebassets\\mail\\jqBootstrapValidation.min.js"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\media\\products\\08d5e581-ef11-43ad-9849-4cd1a3d6bbc1_so.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\08d5e581-ef11-43ad-9849-4cd1a3d6bbc1_so.jpg",
       "PackagePath": "staticwebassets\\media\\products\\08d5e581-ef11-43ad-9849-4cd1a3d6bbc1_so.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\media\\products\\744b30f0-a769-4054-88ce-ca5d8851fd61_Sacht.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\0d0c4649-bc7c-49e2-915e-bb199a10414e_ca.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\0d0c4649-bc7c-49e2-915e-bb199a10414e_ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\124e7e47-58dc-489f-8fd8-2a127c3fdbb3_den.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\124e7e47-58dc-489f-8fd8-2a127c3fdbb3_den.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\1fd2912b-8ac3-4c32-a589-1cd6e37901f3_aa.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\1fd2912b-8ac3-4c32-a589-1cd6e37901f3_aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\3288b6da-f23a-4b16-ad6c-5074d25f1419_hinh.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\3288b6da-f23a-4b16-ad6c-5074d25f1419_hinh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\49f2c9a3-42d6-4017-b767-f16c257006a2_hh.png",
+      "PackagePath": "staticwebassets\\media\\products\\49f2c9a3-42d6-4017-b767-f16c257006a2_hh.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\744b30f0-a769-4054-88ce-ca5d8851fd61_Sacht.jpg",
       "PackagePath": "staticwebassets\\media\\products\\744b30f0-a769-4054-88ce-ca5d8851fd61_Sacht.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\media\\products\\8233169e-e99a-49d5-95fd-1770d83155dc_best-product-3.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\753fa7e1-bf49-4feb-bd4a-b8972adbae80_but.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\753fa7e1-bf49-4feb-bd4a-b8972adbae80_but.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\8233169e-e99a-49d5-95fd-1770d83155dc_best-product-3.jpg",
       "PackagePath": "staticwebassets\\media\\products\\8233169e-e99a-49d5-95fd-1770d83155dc_best-product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\media\\products\\9ec330fa-a2b0-4df6-9032-33f68e645b89_best-product-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\8a35672f-ba61-4007-ab32-225e6b6a57d2_ca.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\8a35672f-ba61-4007-ab32-225e6b6a57d2_ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\9ec330fa-a2b0-4df6-9032-33f68e645b89_best-product-4.jpg",
       "PackagePath": "staticwebassets\\media\\products\\9ec330fa-a2b0-4df6-9032-33f68e645b89_best-product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\media\\products\\b4c3e992-19b3-44bf-bc3f-099699b83a96_best-product-2.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\ab68c2a4-b524-4785-93de-3f4fe9729600_nguyen.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ab68c2a4-b524-4785-93de-3f4fe9729600_nguyen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\aff7df6d-56ba-4d17-91c3-6085cb3e6a5d_tho.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\aff7df6d-56ba-4d17-91c3-6085cb3e6a5d_tho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\b4c3e992-19b3-44bf-bc3f-099699b83a96_best-product-2.jpg",
       "PackagePath": "staticwebassets\\media\\products\\b4c3e992-19b3-44bf-bc3f-099699b83a96_best-product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\media\\products\\cd5668a4-600c-4ec0-9ae6-36c502298255_best-product-4.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\cd5668a4-600c-4ec0-9ae6-36c502298255_best-product-4.jpg",
       "PackagePath": "staticwebassets\\media\\products\\cd5668a4-600c-4ec0-9ae6-36c502298255_best-product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\mojii.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\e4174d5b-e01d-4aea-b67d-477dbb340dc2_buttt.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e4174d5b-e01d-4aea-b67d-477dbb340dc2_buttt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\media\\products\\eb1f25e2-720f-4f94-bb5e-cd97d9efc536_do.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\eb1f25e2-720f-4f94-bb5e-cd97d9efc536_do.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\mojii.html",
       "PackagePath": "staticwebassets\\mojii.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_code.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_code.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_custom-forms.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_jumbotron.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_jumbotron.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_media.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_media.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_print.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_print.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_float.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_size.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_size.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_align.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_align.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_background.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_display.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_display.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_float.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_position.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\scss\\style.scss",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\scss\\style.scss",
       "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\shop-detail.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\shop-detail.html",
       "PackagePath": "staticwebassets\\shop-detail.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\shop.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\shop.html",
       "PackagePath": "staticwebassets\\shop.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\testimonial.html",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\testimonial.html",
       "PackagePath": "staticwebassets\\testimonial.html"
     },
     {
-      "Id": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\wwwroot\\vegetable-website-template.jpg",
+      "Id": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\wwwroot\\vegetable-website-template.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template.jpg"
     },
     {

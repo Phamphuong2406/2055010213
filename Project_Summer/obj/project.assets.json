@@ -7816,11 +7816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Project_Summer.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\Project_Summer.csproj",
       "projectName": "Project_Summer",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\Project_Summer.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\Project_Summer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\Project_Summer\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\jjjj\\New folder\\Project_Summer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

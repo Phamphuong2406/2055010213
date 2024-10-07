@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using Project_Summer.DataContext;
 using Project_Summer.Helper;
 using Project_Summer.Models;
@@ -17,7 +18,7 @@ namespace Project_Summer.Controllers
         private readonly IEmailSender _emailSender;
         private readonly PaypalClient _paypalClient;
 
-        public CartController(SummerrContext context, IEmailSender emailSender,PaypalClient paypalClient)
+        public CartController(SummerrContext context, IEmailSender emailSender, PaypalClient paypalClient)
         {
             _context = context;
             _emailSender = emailSender;
@@ -26,12 +27,19 @@ namespace Project_Summer.Controllers
         public IActionResult Index()
         {
             var GioHang = Cart; // Lấy giỏ hàng từ session
+            var shippingPriceCookie = Request.Cookies["shippingPrice"];
+            double shippingPrice = 0;
+            if (shippingPriceCookie != null) {
+                var shippingPicejson = shippingPriceCookie;
+                shippingPrice = JsonConvert.DeserializeObject<double>(shippingPicejson);
+            }
+            ViewBag.ShippingPrice = shippingPrice;
             return View(GioHang);
         }
-      
+
         public List<CartItem> Cart => HttpContext.Session.Get<List<CartItem>>(ConstModel.CART_KEY) ?? new List<CartItem>();
 
-        public IActionResult AddToCart(int idHH, int  SoLuong = 1)
+        public IActionResult AddToCart(int idHH, int SoLuong = 1)
         {
             var GioHang = Cart;
             var item = Cart.SingleOrDefault(p => p.IDhh == idHH);
@@ -77,12 +85,13 @@ namespace Project_Summer.Controllers
         [Authorize(Roles = "Customer")]
         [HttpGet]
         public IActionResult CheckOut()
-        { if(Cart.Count == 0)
+        {
+            if (Cart.Count == 0)
             {
                 return Redirect("/");
             }
             ViewBag.PaypalClientId = _paypalClient.ClientId;
-            
+
             return View(Cart);
         }
         [HttpPost]
@@ -90,17 +99,28 @@ namespace Project_Summer.Controllers
         {
             if (ModelState.IsValid)
             {
+                
                 var idkh = HttpContext.User.Claims.SingleOrDefault(id => id.Type == ConstModel.CLAIM_IDUSER).Value;
                 if (idkh == null)
                 {
                     // Handle the case where the user is not logged in or the claim is missing
                     return RedirectToAction("Login", "Account");
                 }
+
                 var khachhang = new KhachHang();
                 if (model.GiongKhachHang)
                 {
                     khachhang = _context.KhachHangs.SingleOrDefault(kh => kh.MaKh == idkh);
                 }
+                var shippingPriceCookie = Request.Cookies["shippingPrice"];
+                double shippingPrice = 0;
+                if (shippingPriceCookie != null)
+                {
+                    var shippingPicejson = shippingPriceCookie;
+                    shippingPrice = JsonConvert.DeserializeObject<double>(shippingPicejson);
+                }
+                ViewBag.tongcong = TongTien;
+                ViewBag.ShippingPrice = shippingPrice;
                 var hoadon = new HoaDon()
                 {
                     MaKh = idkh,
@@ -112,10 +132,11 @@ namespace Project_Summer.Controllers
                     CachThanhToan = "COD",
                     CachVanChuyen = "GRAP",
                     MaTrangThai = 0,
-
+                    PhiVanChuyen=shippingPrice,
                     GhiChu = model.GhiChu
 
                 };
+
                 _context.Database.BeginTransaction();
                 try
                 {
@@ -130,6 +151,7 @@ namespace Project_Summer.Controllers
                             MaHd = hoadon.MaHd,
                             SoLuong = item.Soluong,
                             DonGia = item.DonGia,
+                            HinhHh = item.Hinh,
                             MaHh = item.IDhh,
                             GiamGia = 0
                         });
@@ -142,23 +164,23 @@ namespace Project_Summer.Controllers
                         }
                         _context.Update(sp);
                     };
-                   
+
                     _context.AddRange(ChiTietHD);
                     _context.SaveChanges();                 // là từ khóa hay gọi là sessionID 
                     HttpContext.Session.Set<List<CartItem>>(ConstModel.CART_KEY, Cart);// Khi bạn thực hiện yêu cầu tiếp theo, Session ID từ cookie được gửi kèm, và server sử dụng nó để tìm và truy xuất dữ liệu session tương ứng.
 
                     var receiver = "nhi880031@gmail.com";
-                    var subject = "Bạn đã đặt hangf thành công";
-                    var message = "Mọi Thắc mắc xin liện hệ cho chúng tôi";
+                    var subject = "Bạn đã đặt hàng thành công";
+                    var message = "Mọi Thắc mắc xin liện hệ cho chúng tôi qua : +098765422";
                     await _emailSender.SendEmailAsync(receiver, subject, message);
-                      
+
                     return RedirectToAction("Success");
                 }
                 catch (Exception ex)
                 {
                     _context.Database.RollbackTransaction();
                 }
-               
+
             }
             return View(Cart);
         }
@@ -201,7 +223,7 @@ namespace Project_Summer.Controllers
                     // Handle the case where the user is not logged in or the claim is missing
                     return RedirectToAction("DangNhap", "KhachHang");
                 }
-               
+
                 // Lấy thông tin khách hàng từ cơ sở dữ liệu
                 var khachHang = _context.KhachHangs.SingleOrDefault(kh => kh.MaKh == idkh);
                 if (khachHang == null)
@@ -279,7 +301,7 @@ namespace Project_Summer.Controllers
             if (cartItem.Soluong >= 1)
             {
                 ++cartItem.Soluong;
-                
+
             }
             else
             {
@@ -297,28 +319,32 @@ namespace Project_Summer.Controllers
             }
             return RedirectToAction("Index");
         }
-    
+
         public async Task<IActionResult> Decrease(int id)
         {
-            var data = await _context.HangHoas.Where(p =>p.MaLoai == id).FirstOrDefaultAsync();
-            List<CartItem> Cart = HttpContext.Session.Get<List<CartItem>>(ConstModel.CART_KEY) ;// lấy list sản phẩm trong giỏ hàng
+            var data = await _context.HangHoas.Where(p => p.MaLoai == id).FirstOrDefaultAsync();
+            List<CartItem> Cart = HttpContext.Session.Get<List<CartItem>>(ConstModel.CART_KEY);// lấy list sản phẩm trong giỏ hàng
             CartItem cartItem = Cart.Where(p => p.IDhh == id).FirstOrDefault();// lấy ra sản phẩm cần giảm số lượng
-           
-                if (cartItem.Soluong > 1 && cartItem.Soluong <= data.SoLuong)
-                {
-                    --cartItem.Soluong;
 
-                }
-                else
+            if (cartItem.Soluong > 1 && cartItem.Soluong <= data.SoLuong)
+            {
+                --cartItem.Soluong;
+                if (cartItem.Soluong < 1)
                 {
+                    Cart.Remove(cartItem); // Xóa sản phẩm khỏi giỏ hàng
+                }
+            }
+            else
+            {
+                // Nếu số lượng sản phẩm đã đạt số lượng tối đa
                 if (cartItem.Soluong == data.SoLuong)
                 {
-                    TempData["message"] = "sản phẩm đa đạt số lươngj tối đa";
+                    TempData["message"] = "Sản phẩm đã đạt số lượng tối đa.";
                 }
-
-                }
-            if (Cart.Count == 0) {
-               HttpContext.Session.Remove(ConstModel.CART_KEY);
+            }
+            if (Cart.Count == 0)
+            {
+                HttpContext.Session.Remove(ConstModel.CART_KEY);
             }
             else
             {
@@ -326,7 +352,7 @@ namespace Project_Summer.Controllers
             }
             return RedirectToAction("Index");
         }
-        
+
         public IActionResult Success()
         {
             // tìm id khách hàng hiện tại trong session
@@ -341,8 +367,9 @@ namespace Project_Summer.Controllers
             ViewBag.Idkh = idkh;
             return View();
         }
-        public IActionResult ViewOder(string idkh) {
-           
+        public IActionResult ViewOder(string idkh)
+        {
+
             var hoadon = _context.HoaDons.Where(hd => hd.MaKh == idkh).ToList();
             // Kiểm tra xem khách hàng có đơn hàng không
             if (hoadon == null || hoadon.Count == 0)
@@ -352,9 +379,10 @@ namespace Project_Summer.Controllers
             }
             return View(hoadon);
         }
-        public IActionResult ViewDetails (int id)
+        public IActionResult ViewDetails(int id)
         {
-            var chitiethd = _context.ChiTietHds.Where(x => x.MaHd == id).ToList();
+            var chitiethd = _context.ChiTietHds.Include(x => x.MaHhNavigation).Where(x => x.MaHd == id).ToList();
+
             // Kiểm tra xem hóa đơn có chi tiết nào không
             if (chitiethd == null || chitiethd.Count == 0)
             {
@@ -362,6 +390,55 @@ namespace Project_Summer.Controllers
                 return View("Error"); // Bạn có thể hiển thị view lỗi hoặc thông báo khác
             }
             return View(chitiethd);
+        }
+        [HttpPost]
+        public async Task<IActionResult> GetShipping(VanChuyen model, string quan, string tinh, string phuong)
+        {
+            // Tìm kiếm thông tin vận chuyển dựa trên địa chỉ
+            var exisitingShipping = await _context.VanChuyens.FirstOrDefaultAsync(x => x.Xa == phuong && x.Huyen == quan && x.ThanhPho == tinh);
+
+            // Gán giá vận chuyển mặc định
+            double shippingPrice = 0; // Giá mặc định là 0
+            if (exisitingShipping != null )
+            {
+                // Nếu tìm thấy, gán giá vận chuyển từ dữ liệu
+                shippingPrice = exisitingShipping.Gia;
+            }
+            else
+            {
+                // Nếu không tìm thấy, gán giá vận chuyển mặc định
+                shippingPrice = 30000;
+            }
+
+            // Chuyển giá vận chuyển sang JSON
+            var shippingPriceJson = JsonConvert.SerializeObject(shippingPrice);
+
+            try
+            {
+                // Cấu hình cookie và gán giá vận chuyển vào cookie
+                var cookieOptions = new CookieOptions
+                {
+                    HttpOnly = true,
+                    Expires = DateTimeOffset.UtcNow.AddMinutes(30),
+                    Secure = true, // Đảm bảo chỉ sử dụng trên HTTPS
+                };
+                Response.Cookies.Append("shippingPrice", shippingPriceJson, cookieOptions);
+            }
+            catch (Exception ex)
+            {
+                // Ghi log lỗi nếu có sự cố khi thêm giá vào cookie
+                Console.WriteLine($"Lỗi thêm giá vận chuyển vào cookie: {ex.Message}");
+         
+            }
+
+            // Trả về giá vận chuyển dưới dạng JSON
+            return Json(new { shippingPrice });
+        }
+        public IActionResult Deletee()
+        {
+            Response.Cookies.Delete("shippingPrice");
+            return RedirectToAction("Index");
+
         }
 
 

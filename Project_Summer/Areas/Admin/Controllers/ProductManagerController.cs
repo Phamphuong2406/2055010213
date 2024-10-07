@@ -59,6 +59,7 @@ namespace Project_Summer.Areas.Admin.Controllers
             {
                 model.TenAlias = model.TenHh.Replace(" ", "-");
                 model.SoLuong = 0;
+                model.DaBan = 0;
                 var TenAlias = await _context.HangHoas.FirstOrDefaultAsync(p => p.TenAlias == model.TenAlias);
                 if (TenAlias != null)
                 { // sp đẫ tồn tại
@@ -121,12 +122,7 @@ namespace Project_Summer.Areas.Admin.Controllers
             if (ModelState.IsValid)
             {
                 model.TenAlias = model.TenHh.Replace(" ", "-");
-                var TenAlias = await _context.HangHoas.FirstOrDefaultAsync(p => p.TenAlias == model.TenAlias);
-                if (TenAlias != null)
-                { // sp đẫ tồn tại
-                    ModelState.AddModelError("", "Sản phẩm đã có trong database");
-                    return View(model);
-                }
+                
                 //nếu chưa có thì tạo mới
                 if (model.HinhUpload != null)
                 {

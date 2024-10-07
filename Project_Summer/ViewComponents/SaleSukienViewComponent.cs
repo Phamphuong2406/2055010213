@@ -15,7 +15,7 @@ namespace Project_Summer.ViewComponents
         }
         public IViewComponentResult Invoke() // giống như action trong controller 
         {
-            var data = _context.HangHoas.Where(x => x.MaLoai == 1);
+            var data = _context.HangHoas.Where(x => x.MaLoai == 23);
             return View(data);
 
         }

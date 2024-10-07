@@ -2,37 +2,71 @@
 @{
     ViewData["Title"] = "ViewDetails";
     Layout = "~/Views/Shared/_Layout.cshtml";
-}
-
-
-<table class="table table-bordered">
-    <thead class="thead-dark">
-        <tr>
-            <th scope="col">Mã chi tiết HD</th>
-            <th scope="col">Mã DH</th>
-            <th scope="col">Sản phẩm</th>
-            <th scope="col">Số lượng</th>
-            <th scope="col">Giảm giá</th>
-            <th scope="col">Đơn giá</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <th scope="row">@item.MaCt</th>
-                <td>@item.MaHd</td>
-
-                <td>@item.MaHhNavigation.TenHh</td>
-
-                <td>@item.SoLuong</td>
-                <td>@item.GiamGia</td>
-                <td>@item.DonGia</td>
-
-
-            </tr>
+    <style>
+        .invoice-details {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: center;
         }
 
-    </tbody>
-</table>
+        .invoice-item {
+            width: 100%;
+            max-width: 800px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
 
+        .product-image {
+            width: 200px; /* Chiều rộng */
+            height: 200px; /* Chiều cao */
+            object-fit: cover; /* Đảm bảo ảnh vừa khung và không bị méo */
+            border-radius: 8px;
+        }
+
+
+        .product-name {
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-size: 1.25rem;
+        }
+
+        .card-body {
+            padding: 20px;
+        }
+
+        .card {
+            border-radius: 10px;
+            overflow: hidden;
+            background-color: #f8f9fa;
+        }
+
+
+    </style>
+}
+<div class="container-fluid py-5">
+    <div class="container py-5">
+<div class="invoice-details">
+    @foreach (var item in Model)
+    {
+        <div class="invoice-item card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-3">
+                        <img src="~/media/products/@item.HinhHh" class="product-image img-fluid" alt="@item.MaHhNavigation.TenHh" />
+                    </div>
+                    <div class="col-md-9">
+                        <h5 class="product-name">@item.MaHhNavigation.TenHh</h5>
+                        <p><strong>Mã chi tiết HD:</strong> @item.MaCt</p>
+                        <p><strong>Mã đơn hàng:</strong> @item.MaHd</p>
+                        <p><strong>Số lượng:</strong> @item.SoLuong</p>
+                        <p><strong>Giảm giá:</strong> @item.GiamGia</p>
+                        <p><strong>Đơn giá:</strong> @item.DonGia</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+</div>
+</div>

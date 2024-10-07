@@ -2,6 +2,21 @@
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    <style type="text/css">
+        .css_select_div {
+            text-align: center;
+        }
+
+        .css_select {
+            display: inline-table;
+            width: 25%;
+            padding: 5px;
+            margin: 5px 2%;
+            border: solid 1px #686868;
+            border-radius: 5px;
+        }
+    </style>
+
 }
 
 !-- Cart Page Start -->
@@ -39,26 +54,24 @@
                             <td>
                                 <div class="input-group quantity mt-4" style="width: 100px;">
                                     <div class="input-group-btn">
-                                        
-                                            <a asp-action="Decrease" asp-controller="Cart" asp-route-id="@item.IDhh"><i class="fa fa-minus"></i></a>
-                                   
+
+                                        <a asp-action="Decrease" asp-controller="Cart" asp-route-id="@item.IDhh"><i class="fa fa-minus"></i></a>
+
                                     </div>
                                     <input type="text" class="form-control form-control-sm text-center border-0" value="@item.Soluong" name="SoLuong" />
                                     <div class="input-group-btn">
-                                        
-                                            <a asp-action="Increase" asp-controller="Cart" asp-route-id="@item.IDhh"><i class="fa fa-plus"></i></a>
-                                      
+
+                                        <a asp-action="Increase" asp-controller="Cart" asp-route-id="@item.IDhh"><i class="fa fa-plus"></i></a>
+
                                     </div>
                                 </div>
                             </td>
                             <td>
-                                @{
-                                    var totalPrice = @item.DonGia * @item.Soluong;
-                                }
-                                <p class="mb-0 mt-4">@totalPrice.ToString("#,##0.00 USD")</p>
+                          
+                                <p class="mb-0 mt-4">@item.ThanhTien.ToString("#,##0 VNĐ")</p>
                             </td>
                             <td>
-                                <a asp-controller="Cart" asp-action="Delete"asp-route-id="@item.IDhh" class="btn btn-md rounded-circle bg-light border mt-4">
+                                <a asp-controller="Cart" asp-action="Delete" asp-route-id="@item.IDhh" class="btn btn-md rounded-circle bg-light border mt-4">
                                     <i class="fa fa-times text-danger"></i>
                                 </a>
                             </td>
@@ -69,35 +82,161 @@
             </table>
         </div>
         <div class="mt-5">
-            <input type="text" class="border-0 border-bottom rounded me-5 py-3 mb-4" placeholder="Coupon Code">
-            <button class="btn border-secondary rounded-pill px-4 py-3 text-primary" type="button">Apply Coupon</button>
+            <input type="text" class="border-0 border-bottom rounded me-5 py-3 mb-4" placeholder="Nhập mã">
+            <button class="btn border-secondary rounded-pill px-4 py-3 text-primary" type="button">Thêm mã giảm giá</button>
         </div>
         <div class="row g-4 justify-content-end">
-            <div class="col-8"></div>
+            <div class="col-8">
+                <div class="form-group">
+                    <label>Tỉnh/Thành phố</label>
+                    <select class="css_select" id="tinh" name="tinh" title="Chọn Tỉnh Thành">
+                        <option value="0">Tỉnh Thành</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Quận/Huyện</label>
+                    <select class="css_select" id="quan" name="quan" title="Chọn Quận Huyện">
+                        <option value="0">Quận Huyện</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Phường/Xã</label>
+                    <select class="css_select" id="phuong" name="phuong" title="Chọn Phường Xã">
+                        <option value="0">Phường Xã</option>
+                    </select>
+                </div>
+                <button type="button" class="btn btn-default btn-add-shipping"> Tính phí vận chuyển</button>
+                <a asp-action ="Deletee" asp-controller="Cart">Xóa phí vận chuyển</a>
+            </div>
             <div class="col-sm-8 col-md-7 col-lg-6 col-xl-4">
                 <div class="bg-light rounded">
                     <div class="p-4">
-                        <h1 class="display-6 mb-4">Cart <span class="fw-normal">Total</span></h1>
+                        <h2 class="display-7 mb-4">Chi tiết Thanh toán</h2>
                         <div class="d-flex justify-content-between mb-4">
-                            <h5 class="mb-0 me-4">Subtotal:</h5>
-                            <p class="mb-0">$96.00</p>
+                            <h5 class="mb-0 me-4">Tổng tiền hàng:</h5>
+                            <p class="mb-0">@Model.Sum(p => p.ThanhTien).ToString("#,##0 VNĐ")</p>
                         </div>
+
                         <div class="d-flex justify-content-between">
-                            <h5 class="mb-0 me-4">Shipping</h5>
-                            <div class="">
-                                <p class="mb-0">Flat rate: $3.00</p>
+                           
+                            <div class="d-flex justify-content-between mb-4">
+                                <h5 class="mb-0 me-4">Phí vận chuyển:</h5>
+                                <h4 class="mb-0">
+                                 
+                                    @if (ViewBag.ShippingPrice != null)
+                                    {
+                                        <h4>@ViewBag.ShippingPrice.ToString("#,##0 VNĐ")</h4>
+                                    }
+                                </h4>
                             </div>
                         </div>
-                        <p class="mb-0 text-end">Shipping to Ukraine.</p>
+                    
                     </div>
                     <div class="py-4 mb-4 border-top border-bottom d-flex justify-content-between">
-                        <h5 class="mb-0 ps-4 me-4">Total</h5>
-                        <p class="mb-0 pe-4">$99.00</p>
+                        <h5 class="mb-0 ps-4 me-4">Tổng Thanh toán</h5>
+                        <p class="mb-0">
+                            @{
+                                var tongTienHang = Model.Sum(p => p.ThanhTien); // Lấy tổng tiền hàng
+                                var shippingPrice = ViewBag.ShippingPrice ?? 0; // Lấy phí vận chuyển nếu có, không thì gán 0
+                                var tongCong = tongTienHang + shippingPrice; // Tổng cộng
+                            }
+                            @tongCong.ToString("#,##0 VNĐ")
+                        </p>
                     </div>
-                    <a asp-controller="Cart" asp-action="CheckOut" class="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4" type="button">Proceed Checkout</a>
+               
+                      <a asp-controller="Cart" asp-action="CheckOut" class="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4" type="button">Xác nhận mua hàng</a>
+                 
+                   
                 </div>
             </div>
         </div>
     </div>
 </div>
-<!-- Cart Page End -->
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Script xử lý nút thêm vận chuyển
+            $(".btn-add-shipping").click(function () {
+                var tinh = $("#tinh").find('option:selected').text();
+                var quan = $("#quan").find('option:selected').text();
+                var phuong = $("#phuong").find('option:selected').text();
+
+                if (tinh == '' || quan == '' || phuong == '') {
+                    Swal.fire("Làm ơn không bỏ trống");
+                }
+                else {
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetShipping", "Cart")',  // Sửa dấu nháy đơn
+                        data: { tinh: tinh, quan: quan, phuong: phuong },
+                        success: function (result) {
+                            if (result) {
+                                location.reload();
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+
+            // Lấy tỉnh thành
+            $.getJSON('https://esgoo.net/api-tinhthanh/1/0.htm', function (data_tinh) {
+                if (data_tinh.error == 0) {
+                    $.each(data_tinh.data, function (key_tinh, val_tinh) {
+                        $("#tinh").append('<option value="' + val_tinh.id + '">' + val_tinh.full_name + '</option>');
+                    });
+
+                    $("#tinh").change(function () {
+                        var idtinh = $(this).val();
+                        // Lấy quận huyện
+                        $.getJSON('https://esgoo.net/api-tinhthanh/2/' + idtinh + '.htm', function (data_quan) {
+                            if (data_quan.error == 0) {
+                                $("#quan").html('<option value="0">Quận Huyện</option>');
+                                $("#phuong").html('<option value="0">Phường Xã</option>');
+                                $.each(data_quan.data, function (key_quan, val_quan) {
+                                    $("#quan").append('<option value="' + val_quan.id + '">' + val_quan.full_name + '</option>');
+                                });
+
+                                // Lấy phường xã
+                                $("#quan").change(function () {
+                                    var idquan = $(this).val();
+                                    $.getJSON('https://esgoo.net/api-tinhthanh/3/' + idquan + '.htm', function (data_phuong) {
+                                        if (data_phuong.error == 0) {
+                                            $("#phuong").html('<option value="0">Phường Xã</option>');
+                                            $.each(data_phuong.data, function (key_phuong, val_phuong) {
+                                                $("#phuong").append('<option value="' + val_phuong.id + '">' + val_phuong.full_name + '</option>');
+                                            });
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    });
+                }
+            });
+
+            // Xác nhận trước khi xóa
+            $(".confirmDeletion").click(function (e) {
+                e.preventDefault();
+                var url = $(this).attr('href');
+                Swal.fire({
+                    title: "Bạn có chắc chắn muốn xóa?",
+                    icon: "warning",
+                    showCancelButton: true,
+                    confirmButtonText: "Xóa",
+                    cancelButtonText: "Hủy",
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        window.location.href = url;
+                    }
+                });
+            });
+        });
+    </script>
+}

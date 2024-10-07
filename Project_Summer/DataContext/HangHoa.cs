@@ -25,8 +25,6 @@ public partial class HangHoa
 
     public double GiamGia { get; set; }
 
-    public int SoLanXem { get; set; }
-
     public string MoTa { get; set; }
 
     public int MaNcc { get; set; }
@@ -34,12 +32,7 @@ public partial class HangHoa
     public int? SoLuong { get; set; }
 
     public int? DaBan { get; set; }
-    [NotMapped]
-    [FileExtension]
-    public IFormFile HinhUpload { get; set; }
-
-
-public virtual ICollection<BanBe> BanBes { get; set; } = new List<BanBe>();
+    [NotMapped][FileExtension] public IFormFile HinhUpload { get; set; }
 
     public virtual ICollection<ChiTietHd> ChiTietHds { get; set; } = new List<ChiTietHd>();
 
